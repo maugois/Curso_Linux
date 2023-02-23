@@ -1,0 +1,5 @@
+https://www.gnu.org/software/bash/manual
+
+https://www.gnu.org/software/libc/manual/pdf/libc.pdf#Signal%20Handling
+
+https://www.gnu.org/software/libc/manual/pdf/libc.pdf#Processes
