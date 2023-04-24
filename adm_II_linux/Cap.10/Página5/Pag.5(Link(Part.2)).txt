@@ -1,0 +1,3 @@
+RHEL com KVM: https://access.redhat.com/articles/973163
+
+RHV, RHOSP e OpenShift Virtualization: https://access.redhat.com/articles/973163

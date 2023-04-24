@@ -1,0 +1,5 @@
+Gerenciamento de contêineres no Podman com arquivos de unidade do systemd
+
+https://www.youtube.com/watch?v=AGkM2jGT61Y
+
+Para obter mais informações, consulte o capítulo Running Containers as Systemd Services with Podman no Red Hat Enterprise Linux 9 Building, Running, and Managing Containers Guide em https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/building_running_and_managing_containers/index

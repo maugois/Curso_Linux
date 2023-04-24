@@ -1,0 +1,7 @@
+Para obter mais informações, consulte Understanding the various RHEL .iso file em https://access.redhat.com/solutions/104063
+
+Para obter mais informações, consulte Creating a Bootable Installation Medium for RHEL em https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/performing_a_standard_rhel_installation/index#assembly_creating-a-bootable-installation-medium_installing-RHEL
+
+Para obter mais informações, consulte Composing A Customized RHEL System Image em https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/composing_a_customized_rhel_system_image/index#composer-description_composing-a-customized-rhel-system-image
+
+Para obter mais informações, consulte Performing A Standard RHEL Installation em https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/performing_a_standard_rhel_installation/index

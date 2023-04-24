@@ -1,0 +1,13 @@
+Para obter mais informações, consulte o guia Configuring and managing virtualization em https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/configuring_and_managing_virtualization/index.
+
+O que é virtualização ?
+
+https://www.redhat.com/en/topics/virtualization/what-is-virtualization
+
+Sistemas operacionais guest certificados para o Red Hat Enterprise Linux com KVM
+
+https://access.redhat.com/articles/973133
+
+Sistemas operacionais guests certificados no Red Hat OpenStack Platform, no Red Hat Virtualization e no OpenShift Virtualization
+
+https://access.redhat.com/articles/973163

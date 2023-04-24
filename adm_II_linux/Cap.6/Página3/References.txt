@@ -1,0 +1,21 @@
+Para obter mais informações, consulte Deduplicating And Compressing Logical Volumes On RHEL em 
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/deduplicating_and_compressing_logical_volumes_on_rhel/index
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Para obter mais informações, consulte Red Hat Enterprise Linux 9 Managing File Systems Guide em 
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/managing_file_systems
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Armazenamento do Stratis 
+
+https://stratis-storage.github.io
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
+O que o Stratis aprendeu com o ZFS, o Btrfs e o gerenciador de volumes do Linux
+
+https://opensource.com/article/18/4/stratis-lessons-learned

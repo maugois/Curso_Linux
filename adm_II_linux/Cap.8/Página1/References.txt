@@ -1,0 +1,3 @@
+Para obter mais informações, consulte o capítulo Managing services with systemd no guia Configuring basic system settings em 
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/configuring_basic_system_settings/index#managing-services-with-systemd

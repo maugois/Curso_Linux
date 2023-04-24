@@ -1,0 +1,4 @@
+Escopo de suporte a recursos de tecnologia: 
+
+https://access.redhat.com/support/offerings/techpreview
+

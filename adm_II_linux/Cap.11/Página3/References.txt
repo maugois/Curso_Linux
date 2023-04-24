@@ -1,0 +1,3 @@
+Para obter mais informações, consulte o capítulo Inicialização com contêineres no Guia de criação, execução e gerenciamento de contêineres do Linux no Red Hat Enterprise Linux 9 em 
+
+https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/9/html-single/building_running_and_managing_containers/index#starting-with-containers_building-running-and-managing-containers
