@@ -1,0 +1,11 @@
+ansible-playbook(1) and ansible-vault(1) man pages
+
+Encrypting content with Ansible Vault — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/vault.html
+
+
+Keep vaulted variables safely visible — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_best_practices.html#keep-vaulted-variables-safely-visible
+

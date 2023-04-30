@@ -1,0 +1,11 @@
+Including and Importing — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_reuse_includes.html
+
+Creating Reusable Playbooks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_reuse.html
+
+Conditionals — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_conditionals.html

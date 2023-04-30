@@ -1,0 +1,37 @@
+A key can also be taken from a url:
+
+ https://github.com/user1.keys.
+
+ 
+References
+
+
+Users Module Ansible Documentation
+
+http://docs.ansible.com/ansible/2.9/modules/user_module.html#user-module
+
+
+How do I generate encrypted passwords for the user module
+
+https://docs.ansible.com/ansible/2.9/reference_appendices/faq.html#how-do-i-generate-encrypted-passwords-for-the-user-module
+
+
+Group Module Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/group_module.html#group-module
+
+
+SSH Known Hosts Module Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/known_hosts_module.html#known-hosts-module
+
+
+Authorized_key module Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/authorized_key_module.html#authorized-key-module
+
+
+The Lookup Plugin Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/plugins/lookup.html?highlight=lookup
+

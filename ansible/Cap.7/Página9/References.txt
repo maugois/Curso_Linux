@@ -1,0 +1,7 @@
+Using collections — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/collections_using.html
+
+Galaxy User Guide — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/galaxy/user_guide.html

@@ -1,0 +1,7 @@
+Error Handling in Playbooks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_error_handling.html
+
+Error Handling — Blocks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_blocks.html#blocks-error-handling

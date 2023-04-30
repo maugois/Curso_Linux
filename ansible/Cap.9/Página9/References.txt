@@ -1,0 +1,19 @@
+Knowledgebase: Red Hat Enterprise Linux (RHEL) System Roles
+
+https://access.redhat.com/articles/3050101
+
+Linux System Roles
+
+https://linux-system-roles.github.io/
+
+nmcli Module Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/nmcli_module.html
+
+hostname Module Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/nmcli_module.html
+
+firewalld Module Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/firewalld_module.html

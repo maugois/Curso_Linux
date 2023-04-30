@@ -1,0 +1,11 @@
+template - Templates a file out to a remote server — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/template_module.html
+
+Variables — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_variables.html
+
+Filters — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_filters.html

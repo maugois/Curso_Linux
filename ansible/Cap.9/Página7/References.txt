@@ -1,0 +1,19 @@
+parted - Configure block device partitions — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/parted_module.html
+
+lvg - Configure LVM volume groups — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/lvg_module.html
+
+lvol - Configure LVM logical volumes — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/lvol_module.html
+
+filesystem - Makes a filesystem — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/filesystem_module.html
+
+mount - Control active and configured mount points — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/mount_module.html

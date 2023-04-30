@@ -1,0 +1,16 @@
+Windows Modules
+
+https://docs.ansible.com/ansible/2.9/modules/list_of_windows_modules.html
+
+https://docs.ansible.com/ansible/2.9/user_guide/windows.html
+
+
+
+Ansible for Network Automation
+
+https://docs.ansible.com/ansible/2.9/network/index.html
+
+
+Ansible for Network Automation (DO457).
+
+https://www.redhat.com/en/services/training/do457-ansible-network-automation

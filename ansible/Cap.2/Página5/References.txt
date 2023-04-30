@@ -1,0 +1,26 @@
+ansible(1) man page
+
+
+Working with Patterns: Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/intro_patterns.html
+
+
+Introduction to Ad-Hoc Commands: Ansible Documentation
+
+http://docs.ansible.com/ansible/2.9/user_guide/intro_adhoc.html
+
+
+Module Index: Ansible Documentation
+
+http://docs.ansible.com/ansible/2.9/user_guide/intro_adhoc.html
+
+
+command - Executes a command on a remote node: Ansible Documentation
+
+http://docs.ansible.com/ansible/2.9/modules/command_module.html
+
+
+shell - Execute commands in nodes: Ansible Documentation
+
+http://docs.ansible.com/ansible/2.9/modules/shell_module.html

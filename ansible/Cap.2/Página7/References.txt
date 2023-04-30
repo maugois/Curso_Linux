@@ -1,0 +1,13 @@
+Intro to Playbooks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_intro.html
+
+
+Playbooks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks.html
+
+
+Check Mode ("Dry Run") — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_checkmode.html

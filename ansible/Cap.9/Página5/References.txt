@@ -1,0 +1,18 @@
+at - Schedule the execution of a command or script file via the at command — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/at_module.html
+
+
+cron - Manage cron.d and crontab entries — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/cron_module.html
+
+
+reboot - Reboot a machine — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/reboot_module.html
+
+
+service - Run services on a machine — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/service_module.html

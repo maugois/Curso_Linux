@@ -1,0 +1,23 @@
+Knowledgebase: "How Do I Download and Install Red Hat Ansible Engine?"
+
+https://access.redhat.com/articles/3174981
+
+
+Simple Content Access
+
+https://access.redhat.com/articles/simple-content-access
+
+
+Product Documentation for Red Hat Ansible Automation Platform 1.2
+
+https://access.redhat.com/documentation/en-us/red_hat_ansible_automation_platform/1.2/
+
+
+Windows Guides — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/windows.html
+
+
+Ansible for Networking Automation — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/network/index.html

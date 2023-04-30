@@ -1,0 +1,5 @@
+ the Ansible documentation website at http://docs.ansible.com.
+
+The upstream Ansible community has an issue tracker for Ansible and its integrated modules at https://github.com/ansible/ansible/issues.
+
+Documentation on how to do this is available at https://docs.ansible.com/ansible/2.9/dev_guide/developing_modules.html.

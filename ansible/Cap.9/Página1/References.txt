@@ -1,0 +1,29 @@
+yum — Manages packages with the yum package manager — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/yum_module.html
+
+
+package_facts — package information as facts — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/package_facts_module.html
+
+
+redhat_subscription — Manage registration and subscriptions to RHSM using the subscription-manager command — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/redhat_subscription_module.html
+
+
+rhsm_repository — Manage RHSM repositories using the subscription-manager command — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/rhsm_repository_module.html
+
+
+yum_repository — Add or remove YUM repositories — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/yum_repository_module.html
+
+
+rpm_key — Adds or removes a gpg key from the rpm db — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/rpm_key_module.html
+

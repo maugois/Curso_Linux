@@ -1,0 +1,11 @@
+Configuring Ansible — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/installation_guide/intro_configuration.html
+
+debug — Print statements during execution — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/debug_module.html
+
+Best Practices — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_best_practices.html

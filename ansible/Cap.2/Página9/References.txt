@@ -1,0 +1,27 @@
+Intro to Playbooks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_intro.html
+
+
+
+Playbooks — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks.html
+
+
+
+Developing Modules — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/dev_guide/developing_modules.html
+
+
+
+Module Support — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/modules_support.html
+
+
+
+YAML Syntax — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/reference_appendices/YAMLSyntax.html

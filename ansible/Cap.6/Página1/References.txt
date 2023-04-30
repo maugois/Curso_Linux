@@ -1,0 +1,7 @@
+Working with Patterns — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/intro_patterns.html
+
+Working with Inventory — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/intro_inventory.html

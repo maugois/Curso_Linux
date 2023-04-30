@@ -1,0 +1,8 @@
+setup - Gathers facts about remote hosts — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/modules/setup_module.html
+
+
+Variables discovered from systems: Facts — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_variables.html#variables-discovered-from-systems-facts

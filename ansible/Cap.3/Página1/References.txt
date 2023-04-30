@@ -1,0 +1,18 @@
+Inventory — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/intro_inventory.html
+
+
+Variables — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_variables.html
+
+
+Variable Precedence: Where Should I Put A Variable?
+
+https://docs.ansible.com/ansible/2.9/user_guide/playbooks_variables.html#variable-precedence-where-should-i-put-a-variable
+
+
+YAML Syntax — Ansible Documentation
+
+https://docs.ansible.com/ansible/2.9/reference_appendices/YAMLSyntax.html
