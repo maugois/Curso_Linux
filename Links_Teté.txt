@@ -1,0 +1,125 @@
+O modelo OSI e suas camadas | Alura Cursos Online
+
+- https://www.alura.com.br/artigos/conhecendo-o-modelo-osi
+
+Pirates of Silicon Valley
+
+- https://g.co/kgs/JuedNJ
+
+Como configurar VLans em dispositivos Cisco
+
+- https://www.alura.com.br/artigos/como-configurar-vlans-em-dispositivos-cisco
+
+Configurando DHCP em roteadores Cisco
+
+- https://www.alura.com.br/artigos/como-configurar-dhcp-em-roteadores-cisco?gclid=Cj0KCQiAuvOPBhDXARIsAKzLQ8HirtMfFAstbXNXCp7KaQkqdsLEyo1HArzvLI1EG1fH7u18b0GYX3oaAphNEALw_wcB
+
+Configure DHCP Server for multiple VLANs on the Switch
+
+- https://www.computernetworkingnotes.com/ccna-study-guide/configure-dhcp-server-for-multiple-vlans-on-the-switch.html
+
+IOS and Configuration Basics
+
+- https://www.cisco.com/c/en/us/td/docs/switches/wan/mgx/mgx_8850/software/mgx_r3/rpm/rpm_r1-1/configuration/guide/appc.html
+
+
+ANSI / TIA-568
+
+- https://stringfixer.com/pt/TIA/EIA-568
+
+How to create LVM in anaconda when installing system ?
+
+- https://access.redhat.com/solutions/27457
+
+How To Reset Root Password On CentOS 7
+
+- https://www.unixmen.com/reset-root-password-centos-7/
+
+How to set grub2 password in RHEL/CentOS 7/8 (Step by Step Guide)
+
+- https://edumotivation.com/set-grub2-password-in-linux/#:~:text=Conclusion-,Step%20%231%20Generate%20GRUB%20Password%20for%20root%20user,cfg%20file
+
+How to reset Linux root password via Live CD
+
+- https://ixnfo.com/en/how-to-reset-linux-root-password-via-live-cd.html
+
+How to Remove Viruses From Your Computer
+
+- https://www.youtube.com/watch?v=CHtZ9-9ch2w
+
+How To Enable IP Forwarding On CentOS / RedHat - lifeLinux: Linux Tips, Hacks, Tutorials, Ebooks
+
+- https://lifelinux.com/how-to-enable-ip-forwarding-on-centos-redhat/
+
+Linux Firewalld Port-Forward and NAT
+
+- https://akm111.wordpress.com/2017/04/30/linux-firewalld-port-forward-and-nat/
+
+
+14.2. Configuring a DHCP Server Red Hat Enterprise Linux 7 | Red Hat Customer Portal
+
+- https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-dhcp-configuring-server
+
+Como configurar o DHCP no Windows Server 2012
+
+- https://www.dell.com/support/kbdoc/pt-br/000136459/como-configurar-o-dhcp-no-windows-server-2012
+
+How to Install and Enable Bash Auto Completion in CentOS/RHEL
+
+- https://www.tecmint.com/install-and-enable-bash-auto-completion-in-centos-rhel/
+
+15.2. BIND Red Hat Enterprise Linux 7 | Red Hat Customer Portal
+
+- https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/7/html/networking_guide/sec-bind
+
+Instalando e Configurando o DNS no Windows Server 2012
+
+- http://www.andreruschel.com/2013/08/instalando-e-configurando-o-dns-no.html
+
+Implantar e gerenciar DHCP - Learn
+
+- https://docs.microsoft.com/pt-br/learn/modules/deploy-manage-dynamic-host-configuration-protocol/
+
+Implementar o DNS do Windows Server - Learn
+
+- https://docs.microsoft.com/pt-br/learn/modules/implement-windows-server-dns/
+
+How To Install Linux, Apache, MySQL, PHP (LAMP) stack On CentOS 7  | DigitalOcean
+
+- https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-centos-7
+
+How To Set Up Apache Virtual Hosts on CentOS 7  | DigitalOcean
+
+- https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-7
+
+Configuring SELinux Policies for Apache Web Servers - Serverlab
+
+- https://www.serverlab.ca/tutorials/linux/web-servers-linux/configuring-selinux-policies-for-apache-web-servers/
+
+How to Install, Configure and Secure FTP Server in CentOS 7 - [Comprehensive Guide]
+
+- https://www.tecmint.com/install-ftp-server-in-centos-7/
+
+Setting Up DNS Server On CentOS 7 | Install DNS Server On CentOS 7
+
+- https://www.unixmen.com/setting-dns-server-centos-7/
+
+Linux Basics: How To Enable Apache UserDir In CentOS 7/RHEL 7 | Unixmen
+
+- https://www.unixmen.com/linux-basics-enable-apache-userdir-centos-7rhel-7/
+
+Resetting the Administrator Password on a Windows 2012 R2 VM (VMware ESXi)
+
+- https://colinwilson.uk/2019/04/25/resetting-the-administrator-password-on-a-windows-2012-r2-vm-vmware-esxi/
+
+Criar Pasta Base para os usuários no Windows Server 2012
+
+- http://www.bosontreinamentos.com.br/microsoft-windows-server/criar-pasta-base-para-os-usuarios-no-windows-server-2012/
+
+Como instalar o Agente Zabbix (zabbix-agent) no CentOS/RHEL 5/6/7
+
+- https://brasilcloud.com.br/tutoriais/como-instalar-o-agente-zabbix-zabbix-agent-no-centos-rhel-5-6-7/
+
+Install and Configure pfBlockerNg for DNS Black Listing in pfSense Firewall
+
+- https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/
