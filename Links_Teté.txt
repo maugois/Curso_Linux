@@ -123,3 +123,7 @@ Como instalar o Agente Zabbix (zabbix-agent) no CentOS/RHEL 5/6/7
 Install and Configure pfBlockerNg for DNS Black Listing in pfSense Firewall
 
 - https://www.tecmint.com/install-configure-pfblockerng-dns-black-listing-in-pfsense/
+
+How to install and configure sosreport under CentOS / RHEL
+
+- https://www.thegeekdiary.com/how-to-install-and-configure-sosreport-under-centos-rhel/
